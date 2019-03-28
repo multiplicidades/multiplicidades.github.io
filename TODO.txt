@@ -1,0 +1,72 @@
+TODO
+publish github pages
+logo ?
+all content
+background ? -> color of text
+we want sections outside of navs? como chegar, mapa da cidade, contact, etc -- or maybe, on the very page, className += " hidden";
+Typeface 
+	- header + normal
+	- normal caps 
+Alternative activities ? content
+
+sitemap
+	intro - very short text
+	timetable - links to days
+		days - photos-link with the different pieces
+			pieces - video/photo, text, gallery, links
+	description - longer text
+	main nav
+		nosotros - longer description & list of the team
+		como chegar - map and transport information
+		mapa da cidade - map with clicable spaces
+			spaces - photo-link with different pieces
+		contato - contact information
+		performact - link to webpage
+	social media links
+
+
+keys
+	home -- text description with images
+	timetable -- nice navigation to posts of artists, i wanna see per day
+	posts of artists -- text description, video embed, gallery
+	chegar -- big image map of how to get there, text instructions
+	contact -- contact links and information
+
+
+Festival - #1 Index
+	Creemos que, queremos que ...
+	El festival es ...
+	Nosotros - Somos un equipo de alumnos internacionales ...
+	Performact es una escuela ... link a web page
+
+	
+Timetable - #2 Index
+	Some way of a nice timetable
+	
+	
+Performances #2 sub pages
+	Make list of performances - one page per performance (or per day)
+	One post per performance
+		Video / Picture
+		Text
+		Links ?
+		Gallery
+		Download / see full timetable
+	
+	
+Alternative performances
+	List of activities
+	One activity per page
+	
+	
+Map of city	
+	with names and links to individual posts
+	
+Como llegar #3 Index
+	mapa - google maps screenshot
+	instrucciones
+	
+Contacto
+	social media
+	fono - address - mail
+	
