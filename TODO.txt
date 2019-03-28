@@ -1,5 +1,4 @@
 TODO
-publish github pages
 logo ?
 all content
 background ? -> color of text
@@ -7,7 +6,7 @@ we want sections outside of navs? como chegar, mapa da cidade, contact, etc -- o
 Typeface 
 	- header + normal
 	- normal caps 
-Alternative activities ? content
+Alternative activities ? what are they ? content
 
 sitemap
 	intro - very short text

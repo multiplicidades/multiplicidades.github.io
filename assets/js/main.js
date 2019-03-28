@@ -297,6 +297,12 @@
 						.on('click', function() {
 							location.hash = '';
 						});
+				// Back.
+					$('<div class="back">Back</div>')
+						.appendTo($this)
+						.on('click', function() {
+							window.history.back();
+						});
 
 				// Prevent clicks from inside article from bubbling.
 					$this.on('click', function(event) {
