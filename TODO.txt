@@ -1,12 +1,12 @@
 TODO
-logo ?
+title sections for movile
+logo ? Header photo
 all content
+	Alternative activities ? what are they ? content
 background ? -> color of text
 we want sections outside of navs? como chegar, mapa da cidade, contact, etc -- or maybe, on the very page, className += " hidden";
 Typeface 
-	- header + normal
-	- normal caps 
-Alternative activities ? what are they ? content
+	- Jost* ?
 
 sitemap
 	intro - very short text
@@ -20,8 +20,8 @@ sitemap
 		mapa da cidade - map with clicable spaces
 			spaces - photo-link with different pieces
 		contato - contact information
-		performact - link to webpage
 	social media links
+		performact - link to webpage
 
 
 keys
