@@ -1717,3 +1717,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+		
+#header p, #header nav, #header a, #header b, #header strong, #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
+	color: #111111 !important;
+}

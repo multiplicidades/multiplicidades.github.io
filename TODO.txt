@@ -1,12 +1,13 @@
 TODO
 title sections for movile
-logo ? Header photo
+header carrousel
+	smaller picture
 all content
-	Alternative activities ? what are they ? content
-background ? -> color of text
-we want sections outside of navs? como chegar, mapa da cidade, contact, etc -- or maybe, on the very page, className += " hidden";
-Typeface 
-	- Jost* ?
+	days
+	activities
+	main nav
+fb link
+
 
 sitemap
 	intro - very short text
