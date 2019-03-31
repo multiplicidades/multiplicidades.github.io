@@ -2,12 +2,18 @@ TODO
 title sections for movile
 header carrousel
 	bootstrap? incompatibility of typeface
-	smaller picture
+	smaller (size & weight) pictures
 all content
 	days linkers
-		3 instagram style, or, cropped super-landscape
-		add time to pieces
+		info pieces - cooler & add time
 	activities linkers
 	main nav linkers
+		nosotros - list of artists
+		mapa da cidade - waiting map of city
+		como chegar - map ofcountryside, bus schedules
 get fb link
-photos - less MB
+Sponsors logos
+photos - less MB 
+	carousel header images
+	take all to less than 100kb
+	- check load time
