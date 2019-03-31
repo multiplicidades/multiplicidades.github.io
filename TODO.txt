@@ -1,7 +1,5 @@
 TODO
-title sections for movile
 header carrousel
-	bootstrap? incompatibility of typeface
 	smaller (size & weight) pictures
 all content
 	days linkers
@@ -10,10 +8,10 @@ all content
 	main nav linkers
 		nosotros - list of artists
 		mapa da cidade - waiting map of city
-		como chegar - map ofcountryside, bus schedules
+		como chegar - map countryside, bus schedules
 get fb link
 Sponsors logos
-photos - less MB 
+photos - less MB
 	carousel header images
 	take all to less than 100kb
 	- check load time
