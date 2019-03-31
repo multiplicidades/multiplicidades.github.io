@@ -1,16 +1,13 @@
 TODO
-header carrousel
-	smaller (size & weight) pictures
 all content
 	days linkers
-		info pieces - cooler & add time
 	activities linkers
-	main nav linkers
+	main nav
 		nosotros - list of artists
 		mapa da cidade - waiting map of city
 		como chegar - map countryside, bus schedules
 get fb link
-Sponsors logos
+Sponsors logos ?
 photos - less MB
 	carousel header images
 	take all to less than 100kb

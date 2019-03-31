@@ -1738,9 +1738,19 @@ input, select, textarea {
 
 * {box-sizing:border-box}
 
+.first-container {
+	border-top-width: 0px !important;
+}
+
+.first-container div {
+	padding-top: 0px !important;
+}
+
+
 /* Slideshow container */
 .slideshow-container {
-	max-height: 300px;
+  
+  max-width: 1000px;
   position: relative;
   margin: auto;
 }
