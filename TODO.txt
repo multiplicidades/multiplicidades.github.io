@@ -1,14 +1,17 @@
 TODO
-all content
-	days linkers
-	activities linkers
-	main nav
-		nosotros - list of artists
-		mapa da cidade - waiting map of city
-		como chegar - map countryside, bus schedules
+activities linkers
 get fb link
 Sponsors logos ?
 photos - less MB
-	carousel header images
 	take all to less than 100kb
 	- check load time
+	
+Update images not free of copyright
+Correct spelling mistakes
+Correct to the good programation
+Buy domain -- Connect to url
+Video instead of carrousel
+Crowdfunding logo link webpage
+Correct images style in linkers
+
+Translate to english
