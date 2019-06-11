@@ -1,12 +1,8 @@
 TODO
 activities linkers
 get fb link
-Sponsors logos ?
-photos - less MB
-	take all to less than 100kb
-	- check load time
 
-Pic
+Pics
 	kingdom
 	guilt - of a girl
 Correct spelling mistakes
